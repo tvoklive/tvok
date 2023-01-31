@@ -9,8 +9,14 @@
    <body>
   
       <h1>
-         <a href="https://2606:50c0:8000::153">TV 1</a>
+         <a href="http://10.192.0.3">TV 1</a>
 
       </h1>
+      
+      <h2>
+
+         <a href="http://10.252.253.254">TV 2</a>
+
+      </h2>
    </body>
 </html>
